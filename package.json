@@ -1,0 +1,9 @@
+{
+  "name": "AutoUpdaterTest",
+  "version": "1.0.0",
+  "description": "Test for electron auto-updater",
+  "main": "src/index.ts",
+  "repository": "https://github.com/KadenBiel/Electron-Auto-Update.git",
+  "author": "Kaden Biel",
+  "license": "None"
+}
