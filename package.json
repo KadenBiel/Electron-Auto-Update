@@ -1,6 +1,6 @@
 {
   "name": "autoupdatertest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Test for electron auto-updater",
   "main": "src/index.js",
   "repository": {
